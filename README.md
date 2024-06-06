@@ -4,24 +4,18 @@ Welcome to the From The Vault E-Commerce Website repository! This project is a f
 Demo
 Check out the live demo of the project: Live Demo Link
 
-Features
-Responsive and modern design
-Product listing with detailed views
-fully customized with filters
-Shopping cart functionality
-User authentication (sign up, login, logout)
-Wishlist feature
-Order history for users
-User reviews and ratings
+Features:
+- Responsive and modern design
+- Product listing with detailed views
+- fully customized with filters
+- Shopping cart functionality
+- User reviews and ratings
 
 Technologies Used
 Frontend:
-React
-
-Tailwind CSS
-
-Vite
-
+- React
+- Tailwind CSS
+- Vite
 
 Design:
 Figma
