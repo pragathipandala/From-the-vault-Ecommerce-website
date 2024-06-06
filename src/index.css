@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Raleway&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Raleway&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Raleway&family=Roboto:wght@400;500;700&family=Tenor+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Raleway&family=Roboto:wght@400;500;700&family=Tenor+Sans&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+  font-family: 'Twentieth';
+  src: url('../src/static/fonts/TWCEN.TTF');
+}

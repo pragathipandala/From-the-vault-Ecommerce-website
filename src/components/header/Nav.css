@@ -1,0 +1,21 @@
+ul li {
+  display: inline-block; /* Display list items inline */
+  /* padding-bottom: 8px; Add bottom padding to create space for border */
+  margin-right: 20px; /* Adjust margin between list items */
+  position: relative; /* Position relative for absolute positioning of border */
+}
+
+ul li::after {
+  content: ''; /* Create pseudo-element for border */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: transparent; /* Start with transparent border */
+  transition: background-color 0.3s ease; /* Smooth transition for border color change */
+}
+
+ul li:hover::after {
+  background-color: white; /* White bottom border on hover */
+}
