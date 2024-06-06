@@ -17,8 +17,11 @@ User reviews and ratings
 Technologies Used
 Frontend:
 React
+
 Tailwind CSS
+
 Vite
+
 
 Design:
 Figma
