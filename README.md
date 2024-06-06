@@ -1,8 +1,24 @@
-# React + Vite
+From The Vault -  E-Commerce Website
+Welcome to the From The Vault E-Commerce Website repository! This project is a fully customized e-commerce platform for selling Taylor Swift-inspired bracelets. Built with React, Tailwind CSS, and Vite, this website offers a sleek, modern design and an excellent user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Demo
+Check out the live demo of the project: Live Demo Link
 
-Currently, two official plugins are available:
+Features
+Responsive and modern design
+Product listing with detailed views
+fully customized with filters
+Shopping cart functionality
+User authentication (sign up, login, logout)
+Wishlist feature
+Order history for users
+User reviews and ratings
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+Frontend:
+React
+Tailwind CSS
+Vite
+
+Design:
+Figma
